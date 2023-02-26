@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">Java developer</h3>
 
-- 🔭 I’m currently working on [BookRate](https://github.com/igoor0/BookRate.git) and first commercial project, where i'm responsible for backend of E-commerce shop. Project itself is made teamed up with my colleague who is responsible for frontend.
+- 🔭 I’m currently working on [BookRate](https://github.com/igoor0/BookRate.git) and first commercial project, where i'm responsible for backend of E-commerce shop. Project itself is non-profit and created in collaboration with a colleague who is responsible for frontend.
 
 - 🌱 I’m currently learning **Java frameworks - mainly Spring, rest API's and web development.**
 
