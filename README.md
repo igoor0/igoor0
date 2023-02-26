@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
-<h3 align="center">Fullstack Java developer</h3>
+<h3 align="center">Java developer</h3>
 
-- 🔭 I’m currently working on [BookRate](https://github.com/igoor0/BookRate.git)
+- 🔭 I’m currently working on [BookRate](https://github.com/igoor0/BookRate.git) and first commercial project, where i'm responsible for backend of E-commerce shop. Project itself is made teamed up with my colleague who is responsible for frontend.
 
-- 🌱 I’m currently learning **Java frameworks, rest API's and web development.**
+- 🌱 I’m currently learning **Java frameworks - mainly Spring, rest API's and web development.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/igor-kohsin-8830521a7/**
+- 📫 How to reach me **https://www.linkedin.com/in/igor-kohsin/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
