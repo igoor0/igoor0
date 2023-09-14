@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor, a CS student</h1>
 
-- 📫 How to reach me **https://www.linkedin.com/in/igor-kohsin/**
-
-<h3 align="left">Connect with me:</h3>
+- 📫 Reach me there **https://www.linkedin.com/in/igor-kohsin/**
+- 
 <p align="left">
 </p>
 
